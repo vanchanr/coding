@@ -38,4 +38,11 @@ public class Graph {
             System.out.println();
         }
     }
+    /* output:
+        0 -> 1 
+        1 -> 
+        2 -> 1 3 
+        3 -> 4 
+        4 -> 0 1 
+    */
 }
