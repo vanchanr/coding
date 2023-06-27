@@ -77,6 +77,7 @@
 * https://www3.cs.stonybrook.edu/~skiena/392/newlectures/
 * http://web.stanford.edu/class/cs97si/
 * https://algo.is/t-414-aflv-competitive-programming-course-2016
+* https://courses.engr.illinois.edu/cs491cap/fa2019/lectures/schedule/
 
 ### Other Resources
 * https://www.cs.utexas.edu/users/downing/cs104c/Resources.html
