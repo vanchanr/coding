@@ -106,3 +106,4 @@
 
 ### Other Resources
 * https://www.cs.utexas.edu/users/downing/cs104c/Resources.html
+* https://www.oreilly.com/library/view/advanced-algorithms-and/9781617295485/
