@@ -65,7 +65,7 @@
 ### Misc.
 * Union Find Disjoint Set
 * Segment Tree
-* Fenwick Tree
+* Fenwick Tree / Binary Indexed Tree
 * Range Queries
 * Square Root Decomposition
 * Prefix Sum
