@@ -69,6 +69,11 @@
 * Range Queries
 * Square Root Decomposition
 
+### Advanced
+* NP-Hard Problems
+* Randomization
+* Approximation
+
 ---
 
 ### Books
