@@ -50,7 +50,7 @@
 * Suffix Trees and Arrays
 
 ### Geometry
-* Plane Sweep
+* Plane Sweep / Line Sweep
 * Lines, Angles, Triangles, Circles
 * Convex Hull
 
@@ -68,10 +68,18 @@
 * Fenwick Tree
 * Range Queries
 * Square Root Decomposition
+* Prefix Sum
+* Bit Manipulation
+* Matrix
+* Two Pointers
+* Sliding Window
+* Rolling Hash
+* Monotonic Queue and Monotonic Stack
 
 ### Advanced
 * NP-Hard Problems
 * Randomization
+  * Quick Select
 * Approximation
 
 ---
