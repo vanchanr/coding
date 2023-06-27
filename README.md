@@ -16,6 +16,7 @@
   * Quick Sort
   * Merge Sort
 * Backtracking
+  * Subsets and Permutations  
 
 ### Algorithm Design Techniques
 * Greedy
@@ -46,10 +47,22 @@
 
 ### Geometry
 * Plane Sweep
+* Lines, Angles, Triangles, Circles
+* Convex Hull
 
 ### Mathematics
+* Arithmetic and Algebra
 * Number Theory
+  * Divisibility and Modular Arithmetic  
 * Combinatorics
+  * Recurrence Relations and Counting 
 
 ### Misc.
 * Disjoint Set
+
+---
+### Code
+* https://www3.cs.stonybrook.edu/~skiena/392/programs/
+
+### Slides
+* https://www3.cs.stonybrook.edu/~skiena/392/newlectures/
