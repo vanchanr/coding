@@ -19,6 +19,7 @@
   * Subsets and Permutations  
 
 ### Algorithm Design Techniques
+* Complete Search
 * Greedy
 * Dynamic Programming
   * Bit Masking 
@@ -38,12 +39,15 @@
   * Bellman-Ford
   * Floyd-Warshall
 * Topological Sort
-* Maximum Flow
-* Bipartite Matching
+* Network Flow
+  * Max Flow
+  * Min Cut
+  * Bipartite Matching
 
 ### Strings
 * Tries
-* String Matching
+* String Matching, KMP
+* Suffix Trees and Arrays
 
 ### Geometry
 * Plane Sweep
@@ -55,10 +59,15 @@
 * Number Theory
   * Divisibility and Modular Arithmetic  
 * Combinatorics
-  * Recurrence Relations and Counting 
+  * Recurrence Relations and Counting
+* Game Theory
 
 ### Misc.
-* Disjoint Set
+* Union Find Disjoint Set
+* Segment Tree
+* Fenwick Tree
+* Range Queries
+* Square Root Decomposition
 
 ---
 ### Code
@@ -66,3 +75,8 @@
 
 ### Slides
 * https://www3.cs.stonybrook.edu/~skiena/392/newlectures/
+* http://web.stanford.edu/class/cs97si/
+* https://algo.is/t-414-aflv-competitive-programming-course-2016
+
+### Other Resources
+* https://www.cs.utexas.edu/users/downing/cs104c/Resources.html
