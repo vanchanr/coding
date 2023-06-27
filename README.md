@@ -70,6 +70,18 @@
 * Square Root Decomposition
 
 ---
+
+### Books
+* Programming Contests (CP)
+  * cp4, steven
+  * programming challenges, skeina
+  * cph / guide to cp, antti
+  * principles of aps, johan
+* Design and Analysis of algorithms
+  * algorithm design manual, skeina
+  * algorithms, sedgewick-wayne
+  * algorithm design, kleinberg-tardos
+
 ### Code
 * https://www3.cs.stonybrook.edu/~skiena/392/programs/
 
