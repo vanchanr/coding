@@ -49,15 +49,22 @@
 * String Matching, KMP
 * Suffix Trees and Arrays
 
-### Geometry
-* Plane Sweep / Line Sweep
-* Lines, Angles, Triangles, Circles
+### Computational Geometry
+* Sweep Line
+* Points, Line Segments, Polygons, Lines, Angles, Triangles, Circles
 * Convex Hull
+* problems:
+  * Closest Pair Problem: Given n points in the plane, find the two with the smallest distance from each other
+  * Convex hull: Given a set of points, find the smallest convex polygon containing all the points
+  * Line segment intersection: Find the intersections between a given set of line segments
+  * Range searching: Preprocess a set of points, in order to efficiently count the number of points inside a query region
+  * Point location: Given a partitioning of the space into cells, produce a data structure that efficiently tells in which cell a query point is located
+  * Nearest neighbor: Preprocess a set of points, in order to efficiently find which point is closest to a query point
 
 ### Mathematics
 * Arithmetic and Algebra
 * Number Theory
-  * Divisibility and Modular Arithmetic  
+  * Divisibility and Modular Arithmetic
 * Combinatorics
   * Recurrence Relations and Counting
 * Game Theory
