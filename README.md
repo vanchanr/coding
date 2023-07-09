@@ -32,13 +32,13 @@
     * Detecting Cycles
     * Detecting Bipartite Graphs
   * BFS
-    * Shortest Paths in Unweighted Graph  
+    * Shortest Paths in Unweighted Graph
+* Topological Sort
 * Minimum Spanning Trees
 * Shortest Paths
   * Dijkstra
   * Bellman-Ford
   * Floyd-Warshall
-* Topological Sort
 * Network Flow
   * Max Flow
   * Min Cut
