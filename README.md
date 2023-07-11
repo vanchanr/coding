@@ -22,6 +22,10 @@
 * Complete Search
 * Greedy
 * Dynamic Programming
+  * Fibonacci
+  * LCS
+  * Knapsack (Bounded, Unbounded)
+  * Floyd Warshall shortest path
   * Bit Masking 
 * Divide and Conquer
 
