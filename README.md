@@ -1,12 +1,12 @@
 # Competitive Programming
 ### Foundational Data Structures
 * Array
-* Stack: offer, poll, peek
-* Queue: offer, poll, peek
-* Heap: offer, poll, peek
+* Stack: offer, peek, poll
+* Queue: offer, peek, poll
+* Heap: offer, peek, poll
 * Linked List: add, search, remove
 * Hash Table: add, search, remove 
-* Tree: add, search, remove
+* Tree: add, search, remove, first, last, floor, ceiling
 * Graph
 
 ### Basic Algorithms
