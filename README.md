@@ -71,6 +71,7 @@
   * Divisibility and Modular Arithmetic
   * Binary Exponentiation
   * GCD, LCM
+  * Primes 
 * Combinatorics
   * Recurrence Relations and Counting
 * Game Theory
