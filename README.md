@@ -3,10 +3,14 @@
 * Array
 * Stack: push, peek, poll
 * Queue: push, peek, poll
-* Heap: push, peek, poll
+* Heap:
+  * push, peek, poll
+  * remove(k), decreaseKey(k) --> store the handle to each element after its insertion into the heap
 * Linked List: add, search, remove
 * Hash Table: add, search, remove 
-* Tree: add, search, remove, first, last, floor, ceiling
+* Tree:
+  * add, search, remove
+  * first, last, floor, ceiling
 * Graph: addEdge, bfs, dfs
 
 ### Basic Algorithms
@@ -79,6 +83,7 @@
 
 ### Misc.
 * Union Find Disjoint Set
+  * union by rank with path compression
 * Segment Tree
 * Fenwick Tree / Binary Indexed Tree
 * Range Queries
