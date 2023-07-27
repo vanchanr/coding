@@ -69,6 +69,8 @@
 * Arithmetic and Algebra
 * Number Theory
   * Divisibility and Modular Arithmetic
+  * Binary Exponentiation
+  * GCD, LCM
 * Combinatorics
   * Recurrence Relations and Counting
 * Game Theory
